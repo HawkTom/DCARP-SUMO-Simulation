@@ -5,7 +5,16 @@ Benchmarking Dynamic Capacitated Arc Routing Algorithms Using Real-World Traffic
 - The paper of this work is avaliable online. [Pdf](https://www.cs.bham.ac.uk/~minkull/publications/TongCEC2022.pdf) 
 
 ```tex
-Bibtex: TBD
+@INPROCEEDINGS{tong2022sumo,  
+    author={Tong, Hao and Minku, Leandro L. and Menzel, Stefan and Sendhoff, Bernhard and Yao, Xin},  
+    booktitle={2022 IEEE Congress on Evolutionary Computation (CEC)},   
+    title={Benchmarking Dynamic Capacitated Arc Routing Algorithms Using Real-World Traffic Simulation},   
+    year={2022},  
+    volume={},  
+    number={},  
+    pages={1-8},  
+    doi={10.1109/CEC55065.2022.9870399}
+}
 ```
 
 
